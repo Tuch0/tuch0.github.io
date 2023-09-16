@@ -40,7 +40,6 @@ Son regiones de memoria reservadas para el almacenamiento temporal de datos de e
 
 Cuando se produce un buffer overflow, los datos adicionales escritos en el búfer sobrescriben la memoria adyacente, lo que puede causar que el programa falle o que se comporta de manera impredecible. Si un atacante puede explotar esta vulnerabilidad, puede utilizar técnicas de inyección de código para ejecutar su propio código en el sistema afectado.
 
-![Esquema de Buffer Overflow]({{ 'assets/img/commons/bof/memoria.png' | relative_url }}){: .center-image }
 _Esquema de Buffer Overflow_
 
 - **Stack**: almacena los argumentos de las funciones, las variables locales y las direcciones de retorno de las llamadas a funciones. Funciona mediante el algoritmo LIFO (Last In Firts Out), para entender este algoritmo podemos imaginar que la memoria es una caja y los datos son libros. Si nosotros metemos el libro de matemáticas, luego el de historia y por último el de lengua tendremos que sacar primero los que estan encima (historia y lengua) para luego poder sacar el último (matemáticas). Aunque parezca ilógico, cuando se almacena un nuevo valor en el stack el Top Pointer (ESP) tendrá un valor de memoria inferior, por ejemplo, antes de introducir un nuevo valor el ESP valía `0xbffff590` y luego de introducirlo vale `0xbffff58c`. Es decir, cuando la pila crece lo hace hacia direcciones menores y cuando decrece lo hace hacia direcciones mayores.
@@ -71,7 +70,6 @@ int main(){
 }
 ```
 
-![Diferencia entre las direcciones de memoria del stack y heap]({{ 'assets/img/commons/bof/diferencia.png' | relative_url }}){: .center-image }
 _Diferencia entre las direcciones de memoria del stack y heap_
 
 Como podéis observar, en ambos casos (HEAP Y STACK) se van añadiendo datos, sin embargo, el valor de las direcciones de memoria del STACK va decrementando en cada iteración y las del HEAP va aumentando, dejo una tabla para que se vea de forma más clara:
@@ -113,7 +111,6 @@ Cuando se produce un buffer overflow, los datos adicionales escritos en el buffe
 
 Los 2 tipos de buffer overflow se clasifican según el espacio de memoria que se sobreescribe al momento de hacer el overflow:
 
-![Esquema de Buffer Overflow]({{ 'assets/img/commons/bof/esquema.png' | relative_url }}){: .center-image }
 _Esquema de Buffer Overflow_
 
 * **Stack Overflow**: un stack overflow ocurre cuando se agota la memoria asignada para el stack de una aplicación. El stack es una región de memoria utilizada para almacenar información sobre las llamadas de funciones en una aplicación. Cuando se llama a una función, se agregan datos a al stack y cuando se regresa de la función, se eliminan los datos del stack. Si se agota la memoria asignada para el stack, se produce un desbordamiento del stack.
