@@ -16,7 +16,7 @@ Buffer Overflow es una de las mayores vulnerabilidades persistentes a pesar de l
 
 Un registro es una memoria de alta velocidad y poca capacidad, es utilizada para almacenar datos necesarios para la ejecución de un programa, además, algunos tienen funciones específicas que describiré más tarde. Pueden variar la longitud de estos dependiendo de la arquitectura del CPU (Central Processing Unit) los de 32 bits empiezan por la letra "E" y los de 64 bits empiezan por la letra "R" (nomenclatura de los registros).
 
-Cuando un programa es ejecutado, el sistema operativo reserva una zona de la memoria para que el programa realice correctamente sus instrucciones, este espacio se dividide en zonas de acuerdo al tipo de dato que almacena y la función que realiza.
+Cuando un programa es ejecutado, el sistema operativo reserva una zona de la memoria para que el programa realice correctamente sus instrucciones, este espacio se dividide en zonads de acuerdo al tipo de dato que almacena y la función que realiza.
 
 | Nombre              | Nomenclatura x32 | Nomenclatura x64 |Tipo     | Uso                                                                     |
 |:--------------------|:-----------------|:-----------------|:--------|:------------------------------------------------------------------------|
