@@ -1,14 +1,9 @@
 ---
 title: Pandora Writeup
-author: xdann1
+author: Tuch0
 date: 2022-05-31
 categories: [Writeup, HTB]
 tags: [Linux, CTF, Easy, SNMP, Port Forwarding, SQLi, PATH Hijacking, CVE, CMS, SUID]
-image:
-  path: ../../assets/htb/pandora.png
-  width: 800
-  height: 500
-  alt: Banner Pandora
 ---
 
 
