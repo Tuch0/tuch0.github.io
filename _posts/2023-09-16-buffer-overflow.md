@@ -5,7 +5,7 @@ date: 2023-09-16
 categories: [Explicación, BOF]
 tags: [BOF, Laboratorio]
 image:
-  path: ../../assets/img/commons/bof/bof.png
+  path: https://repository-images.githubusercontent.com/438332424/fcacbe29-d486-4638-819d-6da62b0cffe7
   width: 800
   height: 500
   alt: Buffer Overflow
