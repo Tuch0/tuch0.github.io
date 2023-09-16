@@ -1,6 +1,6 @@
 ---
 title: Fundamentos de Buffer Overflow
-author: Tuch0
+author: Tuch00
 date: 2023-09-16
 categories: 
     - Explicación
