@@ -2,8 +2,12 @@
 title: Fundamentos de Buffer Overflow
 author: Tuch0
 date: 2023-09-16
-categories: [Explicación, BOF]
-tags: [BOF, Laboratorio]
+categories: 
+    - Explicación
+    - BOF
+tags: 
+    - BOF 
+    - Laboratorio
 ---
 
 Buffer Overflow es una de las mayores vulnerabilidades persistentes a pesar de la evolución y complejidad de los mecanismos de seguridad que existen hoy en día. Se encuentra presente en diversas aplicaciones por lo que aparece constantemente en las listas de vulnerabilidades críticas publicadas por instituciones enfocadas a la notificación de nuevas amenazas de seguridad.
