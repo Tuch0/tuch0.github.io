@@ -11,7 +11,7 @@ image:
   alt: Buffer Overflow
 ---
 
-![Esquema de Buffer Overflow]({{ 'assets\htb\BufferOverflow.png' | relative_url }}){: .center-image }
+![](assets\htb\BufferOverflow.png)
 
 Buffer Overflow es una de las mayores vulnerabilidades persistentes a pesar de la evolución y complejidad de los mecanismos de seguridad que existen hoy en día. Se encuentra presente en diversas aplicaciones por lo que aparece constantemente en las listas de vulnerabilidades críticas publicadas por instituciones enfocadas a la notificación de nuevas amenazas de seguridad.
 
