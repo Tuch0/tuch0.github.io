@@ -3,11 +3,11 @@ title: Pandora Writeup
 author: Tuch0
 date: 2022-05-31
 categories: [Writeup, HTB]
-tags: [Linux, CTF, Easy, SNMP, Port Forwarding, SQLi, PATH Hijacking, CVE, CMS, SUID]
+tags: [Linux, CTF, Easy, SNMP, Port Forwarding, SQLi, PATH Hijacking, CVE, CMS]
 ---
 
 
-Máquina Easy, encontramos un puerto abierto en UDP que corre una versión sin casi seguridad, lo enumeramos hasta encontrar unas credenciales válidas para ssh, encontramos una web oculta vulnerable a SQLi en la que conseguimos una reverse shell, por último, nos aprovechamos de un binario SUID junto con un PATH Hijacking para conseguir el root.
+Máquina Easy, encontramos un puerto abierto en UDdP que corre una versión sin casi seguridad, lo enumeramos hasta encontrar unas credenciales válidas para ssh, encontramos una web oculta vulnerable a SQLi en la que conseguimos una reverse shell, por último, nos aprovechamos de un binario SUID junto con un PATH Hijacking para conseguir el root.
 
 ## Recopilación de Información
 
