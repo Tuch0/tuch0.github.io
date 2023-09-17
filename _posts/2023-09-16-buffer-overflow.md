@@ -11,9 +11,6 @@ image:
   alt: Buffer Overflow
 ---
 
-![](assets\htb\BufferOverflow.png)
-_Image Caption_
-
 > Esto es una prueba de promt info
 {: .prompt-info }
 
