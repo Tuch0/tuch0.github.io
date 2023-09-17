@@ -13,6 +13,8 @@ order: 4
 
 ## Certificaciones Profesionales
 
+![](../../assets/certs/eJPTv2.png)
+
 1. eJPTv2 (eLearn Junnior Penetration Tester Version 2)
 2. LPI Essentials (Esenciales de administración de sistemas Linux)
 3. Optimización de PC
