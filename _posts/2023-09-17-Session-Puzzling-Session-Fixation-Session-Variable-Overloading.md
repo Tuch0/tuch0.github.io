@@ -31,26 +31,26 @@ docker run -dit -p 127.0.0.1:5000:5000 blabla1337/owasp-skf-lab:sessionpuzzle
 
 ### Escenario
 
-![](../../assets/VectoresDeAtaque/Session-Puzzling-Session-Fixation---Session-Variable-Overloading/1.jpg)
+![](../../assets/VectoresDeAtaque/Session-Puzzling-Session-Fixation-Session-Variable-Overloading/1.jpg)
 
 > Ahora nos vamos a loggear:
 {: .prompt-info }
 
-![](../../assets/VectoresDeAtaque/Session-Puzzling-Session-Fixation---Session-Variable-Overloading/2.jpg)
+![](../../assets/VectoresDeAtaque/Session-Puzzling-Session-Fixation-Session-Variable-Overloading/2.jpg)
 
-![](../../assets/VectoresDeAtaque/Session-Puzzling-Session-Fixation---Session-Variable-Overloading/3.jpg)
+![](../../assets/VectoresDeAtaque/Session-Puzzling-Session-Fixation-Session-Variable-Overloading/3.jpg)
 
 > Vamos a interceptar esta petición:
 
-![](../../assets/VectoresDeAtaque/Session-Puzzling-Session-Fixation---Session-Variable-Overloading/4.jpg)
+![](../../assets/VectoresDeAtaque/Session-Puzzling-Session-Fixation-Session-Variable-Overloading/4.jpg)
 {: .prompt-info }
 
-![](../../assets/VectoresDeAtaque/Session-Puzzling-Session-Fixation---Session-Variable-Overloading/5.jpg)
+![](../../assets/VectoresDeAtaque/Session-Puzzling-Session-Fixation-Session-Variable-Overloading/5.jpg)
 
 > Como vemos nos a seteado una cookie de sesión que ahora mismo tenemos incorporada, pero no estamos logueados como admin , a si que vamos a intentar tener acceso a un recurso que tiene el usuario admin:
 {: .prompt-info }
 
-![](../../assets/VectoresDeAtaque/Session-Puzzling-Session-Fixation---Session-Variable-Overloading/6.jpg)
+![](../../assets/VectoresDeAtaque/Session-Puzzling-Session-Fixation-Session-Variable-Overloading/6.jpg)
 
 > Esto es por un mal uso de las sesiónes , puede ser que haciendo determinadas acciones en la web , te incorporen una cookie de sesión y con ella acceder a sitios que realmente no deberias acceder
 {: .prompt-info }
