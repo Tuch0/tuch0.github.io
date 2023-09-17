@@ -2,7 +2,7 @@
 title: "SQL-Inyection.md"
 author: Tuch0
 date: 2023-09-17
-categories: []
+categories: [Vectores-de-Ataque]
 tags: ['sql', 'SQLI']
 image:
   path: ../../assets/sql-analisis-negocio-cursin.jpg
@@ -180,7 +180,7 @@ union select <columna>||':'||<columna2>,NULL from <tabla>
 
 ### SQL Respuesta Condicional
 
-![[1]]
+![](../../assets/VectoresDeAtaque/Eternal-Blue/2.jpg)
 
 > Como vemos si se cumple lo que le estamos indicando sale el mensaje , lo que le estamos diciendo en la "qwery" es , selecciona el primer caracter de la columna "username" de la tabla "users" donde el "username" sea "administrator" y para terminar le ponemos un = "a"
 {: .prompt-tip }
