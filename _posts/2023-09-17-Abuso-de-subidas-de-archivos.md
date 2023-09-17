@@ -4,6 +4,10 @@ author: Tuch0
 date: 2023-09-17
 categories: [Vectores-de-Ataque]
 tags: [fileUpload, abussing, metadatos, magickNumbers, htaccess]
+image:
+    path: ../../assets/Miniaturas/VectoresDeAtaque/fileupload.png
+    width: 800
+    height: 500
 ---
 
 
