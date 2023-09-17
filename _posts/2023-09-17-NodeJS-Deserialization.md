@@ -4,10 +4,6 @@ author: Tuch0
 date: 2023-09-17
 categories: [Vectores-de-Ataque]
 tags: [nodjs, deserialization, MongoDB]
-image:
-	path: /assets/Miniaturas/VectoresDeAtaque/nodejs-deserialization.jpg
-	width: 800
-	height: 500
 ---
 
 

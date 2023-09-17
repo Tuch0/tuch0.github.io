@@ -5,9 +5,9 @@ date: 2023-09-17
 categories: [Vectores-de-Ataque]
 tags: [eternal_blue, MetasPloit]
 image:
-path: ../../assets/Miniaturas/VectoresDeAtaque/eternalBlue.jpg
-width: 800
-height: 500
+    path: assets/Miniaturas/VectoresDeAtaque/eternalBlue.jpg
+    width: 800
+    height: 500
 ---
 
 ```bash

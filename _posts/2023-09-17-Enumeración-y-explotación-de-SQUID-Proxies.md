@@ -5,7 +5,7 @@ date: 2023-09-17
 categories: [Vectores-de-Ataque]
 tags: [squid-proxies]
 image:
-    path: ../../assets/Miniaturas/VectoresDeAtaque/squid-proxyk.png
+    path: ../../assets/Miniaturas/VectoresDeAtaque/squid-proxy.png
     width: 800
     height: 500
 ---

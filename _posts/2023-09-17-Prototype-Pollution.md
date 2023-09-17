@@ -5,7 +5,7 @@ date: 2023-09-17
 categories: []
 tags: [prototype-Pollution]
 image:
-    path: ../../assets/Miniaturas/VectoresDeAtaque/prototype-pollution.jpeg
+    path: assets/Miniaturas/VectoresDeAtaque/prototype-pollution.jpeg
     width: 800
     height: 500
 ---

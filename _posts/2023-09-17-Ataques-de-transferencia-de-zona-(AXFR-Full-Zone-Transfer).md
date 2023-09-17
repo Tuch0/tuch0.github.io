@@ -4,10 +4,6 @@ author: Tuch0
 date: 2023-09-17
 categories: [Vectores-de-Ataque]
 tags: [AXFR, FullZoneTransfer, dig]
-image:
-	path: ../../assets/Miniaturas/VectoresDeAtaque/axrf.jpeg
-	width: 800
-	height: 500
 ---
 
 
