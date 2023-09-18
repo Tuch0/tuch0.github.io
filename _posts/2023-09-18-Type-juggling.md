@@ -22,7 +22,7 @@ image:
 
 ![](../../assets/VectoresDeAtaque/Type-juggling/1.jpg)
 
-> **Igual que si tu almacenas por ejemplo un HASH que empieze por 0e seguido de lo que sea lo sea , al nosotros aplicar una validación con un doble == , lo que estara pasando sera que no esta aplicando una comparativa como tal , si no lo que estará haciendo es computar el valor , y hara 0 exponente a y lo demas , por lo tanto el valor que esta comparando es 0**
+> **Igual que si tu almacenas por ejemplo un HASH que empieze por 0e seguido de lo que sea lo sea , al nosotros aplicar una validación con un doble == , lo que estara pasando sera que no esta aplicando una comparativa como tal , si no lo que estará haciendo es computar el valor , y hara 0 exponente a y lo demás , por lo tanto el valor que esta comparando es 0**
 
 ### STRCMP
 
