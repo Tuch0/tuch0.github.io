@@ -12,7 +12,6 @@ order: 4
 > Tengo 17 años y muchísimas ganas de comerme el mundo, por esta razón he decidido crear esta página web personal de manera que sirva de documentación de cara al público y de libreta personal para todo lo que vaya aprendiendo subirlo en forma de artículo en esta.
 
 ## Certificaciones Profesionales
-
 ![](../../assets/certs/eJPTv2.png)
 
 1. eJPTv2 (eLearn Junnior Penetration Tester Version 2)

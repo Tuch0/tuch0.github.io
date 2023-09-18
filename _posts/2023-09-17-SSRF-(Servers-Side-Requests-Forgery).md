@@ -2,12 +2,15 @@
 title: "SSRF (Servers-Side Requests Forgery)"
 author: Tuch0
 date: 2023-09-17
-categories: [Vectores-de-Ataque]
-tags: [SSRF, ADCCFFA6]
+categories: 
+  - Vectores-de-Ataque
+tags: 
+  - SSRF
+  - ADCCFFA6
 image:
-path: ../../assets/
-width: 800
-height: 500
+  path: ../../assets/Miniaturas/VectoresDeAtaque/ssrf.jpg
+  width: 800
+  height: 500
 ---
 
 

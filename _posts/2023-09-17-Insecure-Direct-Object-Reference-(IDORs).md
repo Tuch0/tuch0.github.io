@@ -2,12 +2,15 @@
 title: "Insecure Direct Object Reference (IDORs)"
 author: Tuch0
 date: 2023-09-17
-categories: [Vectores-de-Ataque]
-tags: [IDORs, Wfuzz]
+categories: 
+  - Vectores-de-Ataque
+tags: 
+  - IDORs 
+  - Wfuzz
 image:
-path: ../../assets/
-width: 800
-height: 500
+  path: ../../assets/Miniaturas/VectoresDeAtaque/graphL.png
+  width: 800
+  height: 500
 ---
 
 

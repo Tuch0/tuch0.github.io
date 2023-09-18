@@ -1,9 +1,14 @@
 ---
 title: "Type juggling"
-author: Tuch0
-date: 2023-09-17
-categories: [Vectores-de-Ataque]
-tags: [type-juggling]
+date: 2023-09-18
+categories:
+  - Vectores-de-Ataque
+tags:
+  - type-juggling
+image:
+  path: ../../assets/Miniaturas/VectoresDeAtaque/TypeJuggling.jpg
+  width: 800
+  height: 500
 ---
 
 

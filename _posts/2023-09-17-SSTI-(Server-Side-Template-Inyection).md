@@ -1,11 +1,15 @@
 ---
 title: "SSTI (Server-Side Template Injection)"
-author: "Tuch0"
+author: Tuch0
 date: 2023-09-17
 categories:
   - Vectores-de-Ataque
 tags:
   - SSTI
+image:
+  path: ../../assets/Miniaturas/VectoresDeAtaque/ssti.png
+  width: 800
+  height: 500
 ---
 
 ### ¿Qué es?

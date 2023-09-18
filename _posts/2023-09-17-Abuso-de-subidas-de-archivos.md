@@ -2,10 +2,16 @@
 title: "Abuso de subidas de archivos"
 author: Tuch0
 date: 2023-09-17
-categories: [Vectores-de-Ataque]
-tags: [fileUpload, abussing, metadatos, magickNumbers, htaccess]
+categories: 
+  - Vectores-de-Ataque
+tags: 
+  - fileUpload
+  - abussing
+  - metadatos
+  - magickNumbers
+  - htaccess
 image:
-    path: ../../assets/Miniaturas/VectoresDeAtaque/fileupload.png
+    path: ../../assets/Miniaturas/VectoresDeAtaque/abuso-subida-archivos.webp
     width: 800
     height: 500
 ---
