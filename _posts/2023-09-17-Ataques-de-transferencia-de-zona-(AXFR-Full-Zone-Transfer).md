@@ -1,6 +1,5 @@
 ---
 title: "Ataques de transferencia de zona (AXFR - Full Zone Transfer)"
-author: Tuch0
 date: 2023-09-17
 categories: 
   - Vectores-de-Ataque
@@ -59,6 +58,6 @@ dig axfr @<ip> <domain>
 
 ![](../../assets/VectoresDeAtaque/Ataques-de-transferencia-de-zona-(AXFR-Full-Zone-Transfer)/2.jpg)
 
-> Como vemos hemos obtenido todos los subdominios de el sitio y no seria necesario, hacer fuzzing para averiguarlos **es importante decir que necesitamos saber el nombre de el dominio para realizar el ataque**
+> Como vemos hemos obtenido todos los subdominios de el sitio y no seria necesario, hacer "fuzzing" para averiguarlos **es importante decir que necesitamos saber el nombre de el dominio para realizar el ataque**
 {: .prompt-info }
 
