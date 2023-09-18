@@ -1,7 +1,7 @@
 ---
 title: "SQL Inyection"
 author: Tuch0
-date: 2023-09-19
+date: 2023-09-18
 categories: []
 tags: 
   - xxe-injection
