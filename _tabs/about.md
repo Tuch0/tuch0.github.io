@@ -37,7 +37,7 @@ order: 4
 
 - [**Pandora-Eye**](https://github.com/Tuch0/Pandora-Eye/tree/main): Herramienta de OSINT que sirve para buscar información y descargar recursos , de usuarios de instagram , a parte recolecta informácion de bases de datos que tengas en tu equipo local
 
-- [**Insta-Clone:**](https://github.com/Tuch0/Instagram-Clone) Plantilla de Phising, es un clone de la "Login Page" de Instagram , cuando inician sesión les lleva a donde tu tengas configurado , y a parte tiene un script muy chulo que he creado en PHP , que sirve para **obtener: telefono, correo, usuario, contraseña, latitud, longitud, codigo postal, ciudad, proveedor de internet, fecha, dispositivo, navegador y muchas cosas más** *(todo esto se almacena en un archivo llamado "Credentials.txt")*
+- [**Insta-Clone:**](https://github.com/Tuch0/Instagram-Clone) Plantilla de Phising, es un clone de la "Login Page" de Instagram que sirve para **obtener: telefono, correo, usuario, contraseña, latitud, longitud, codigo postal, ciudad, proveedor de internet, fecha, dispositivo, navegador y muchas cosas más** *(todo esto se almacena en un archivo llamado "Credentials.txt")*
 
 - [**Jasper:**](https://github.com/Tuch0/Jasper-IA-text-generator) script que genera texto con una IA , en base a los títulos de un archivo .txt , *(lo suyo es hacer webscrapping de una web , obtener los títulos , y luego pasarselos a este script , de manera que te "clona" la página web,)* y **también incluye un bypass de bloqueo de intentos por IP usando Proxyes**.
 
